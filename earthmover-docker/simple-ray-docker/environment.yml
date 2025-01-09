@@ -1,0 +1,7 @@
+name: myenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ray-default
+  - python=3.9

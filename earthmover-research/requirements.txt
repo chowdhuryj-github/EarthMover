@@ -1,8 +1,0 @@
-ray[rllib,serve,tune]==2.2.0
-pyarrow==10.0.0
-tensorflow>=2.9.0
-transformers>=4.24.0
-pygame==2.1.2
-gym<0.24.0,>=0.21.0
-
-
